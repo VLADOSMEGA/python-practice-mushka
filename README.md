@@ -3,6 +3,7 @@
 Student: Vlad Mushka
 Group: IT31
 Course: Python programming, semester 1
+Email: vladmushka7@gmail.com
 
 ## Contents
 
