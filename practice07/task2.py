@@ -12,7 +12,6 @@ print("Перша літера:", letters[0])
 print("Середня літера:", letters[len(letters) // 2])
 print("Остання літера:", letters[-1])
 print("Остання літера другим способом:", letters[len(letters) - 1])
-print("Остання літера третім способом:", letters[-1:])
 
 print("Перші 3 літери:", letters[:3])
 print("Усі літери, крім перших 3:", letters[3:])
