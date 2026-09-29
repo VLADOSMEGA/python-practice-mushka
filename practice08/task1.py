@@ -5,7 +5,7 @@ me = {
     "surname": "Mushka",
     "group": "IT31",
     "city": "Lutsk",
-    "birth_year": 2009,
+    "birth_year": "2009",
     "hobbies": ["cycling", "computer games", "swimming"]
 }
 
