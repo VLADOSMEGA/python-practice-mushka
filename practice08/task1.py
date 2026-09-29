@@ -11,7 +11,7 @@ me = {
 
 print("Інформація про мене:")
 for key, value in me.items():
-    print(key, "→", value)
+    print(key, "-", value)
 
 print("\nКлючі:", list(me.keys()))
 print("Кількість пар:", len(me))
